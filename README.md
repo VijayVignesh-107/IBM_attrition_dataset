@@ -3,6 +3,7 @@
 Hi,
 
 As part of my dataset journey, i have now selected the IBM HR attrition dataset to built an datamodel for prediction. This dataset has 35 columns which gives different aspect of the employee that determines or possible causes of the attrition.
+link from kaggle :https://www.kaggle.com/code/mohamedhamdymady/ibm-hr-dataset-analysis/input
 
 # Column explanation:
 
